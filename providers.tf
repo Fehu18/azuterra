@@ -1,3 +1,3 @@
-providers {
+provider azurerm {
     features {}
 }
