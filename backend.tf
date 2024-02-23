@@ -1,4 +1,4 @@
-terraform {
+/*terraform {
   backend "azurerm" {
     resource_group_name  = "storagerg"
     storage_account_name = "backendstore1206"
@@ -6,3 +6,4 @@ terraform {
     key                  = "terraform.tfstate"
   }
 }
+*/
